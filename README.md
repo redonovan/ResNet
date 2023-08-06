@@ -11,7 +11,7 @@ My plain network results are similar to those in the paper (Figure 6, left) with
 
 ![plain network testing error](plain_test.png)
 
-My resnet results are also similar to those in the paper (Figure 6, middle) with deeper networks now having lower error:
+My ResNet results are also similar to those in the paper (Figure 6, middle) with deeper networks now having lower error:
 
 ![residual network training error](resnet_train.png)
 
