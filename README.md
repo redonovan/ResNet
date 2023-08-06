@@ -5,13 +5,13 @@ My code in <a href=https://github.com/redonovan/ResNet/blob/main/resnet.py>resne
 
 My code follows Section 4.2 of the paper and is trained on the CIFAR-10 image dataset.
 
-My plain network results are similar to those in the paper (Figure 6, left) with deeper networks having higher error in both train and test:
+My plain network results are similar to those in the paper (Figure 6, left) with deeper networks having higher error:
 
 ![plain network training error](plain_train.png)
 
 ![plain network testing error](plain_test.png)
 
-My resnet results are also similar to those in the paper (Figure 6, middle) with deeper networks now having lower error in both train and test:
+My resnet results are also similar to those in the paper (Figure 6, middle) with deeper networks now having lower error:
 
 ![residual network training error](resnet_train.png)
 
